@@ -5,4 +5,4 @@
 
 ### Run the bash script
 
-> sh install_docker.sh
+> sh ubuntu20_04.sh
